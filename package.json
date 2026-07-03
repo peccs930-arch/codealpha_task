@@ -1,0 +1,25 @@
+```json
+{
+  "name": "ai-language-translator",
+  "version": "1.0.0",
+  "description": "AI Language Translator using HTML, CSS, JavaScript, Node.js, Express, and LibreTranslate API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "translator",
+    "language",
+    "ai",
+    "express",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
+```
